@@ -1,1 +1,1 @@
-hello
+CREATE TABLE IMAM
